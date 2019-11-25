@@ -1,5 +1,5 @@
 # app-restauration-rapide
-**p4 OpenClassrooms**
+*p4 OpenClassrooms*
 
 # Concevez la solution technique d'une application de restauration en ligne, Express Food
 Vous venez d'être recruté(e) par la toute jeune startup ExpressFood. Elle ambitionne de livrer des plats de qualité à domicile en moins de 20 minutes grâce à un réseau de livreurs à vélo.
@@ -21,7 +21,7 @@ Pour structurer votre réflexion vous utiliserez UML et construirez une suite de
 
 Vous veillerez à produire des un schémas UML cohérents par rapport au cahier des charges et respectant les standards UML. Vous concevrez ensuite un schéma de base de données SQL adéquat.
 
-Schémas demandés :
+### Schémas demandés :
 
 - Diagrammes de cas d’utilisations (création d’une commande, ajout d’un plat du jour, livraison d’une commande)
 - Modèle de données
